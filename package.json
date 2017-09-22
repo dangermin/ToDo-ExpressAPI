@@ -1,22 +1,38 @@
 {
   "name": "vstd-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Express toDo API",
   "main": "index.js",
   "scripts": {
     "test": "mocha test"
   },
-  "author": "",
+  "author": "Dangermin Field",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.17.1",
+    "body-parser": "^1.18.1",
     "express": "^4.15.2",
-    "morgan": "^1.8.1"
+    "morgan": "^1.8.1",
+    "underscore": "^1.8.3"
   },
   "devDependencies": {
     "chai": "^4.0.2",
     "chai-http": "^3.0.0",
     "express": "^4.15.3",
     "mocha": "^3.5.0"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dangermin/ToDo-ExpressAPI.git"
+  },
+  "keywords": [
+    "\"RESTful\"",
+    "\"API\""
+  ],
+  "bugs": {
+    "url": "https://github.com/dangermin/ToDo-ExpressAPI/issues"
+  },
+  "homepage": "https://github.com/dangermin/ToDo-ExpressAPI#readme"
 }
