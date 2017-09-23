@@ -1,0 +1,38 @@
+[
+  {
+    "todoItemId": 1,
+    "name": "another item",
+    "priority": 2,
+    "completed": false
+  },
+  {
+    "todoItemId": 2,
+    "name": "a done item",
+    "priority": 1,
+    "completed": true
+  },
+  {
+    "todoItemId": 3,
+    "name": "a done items",
+    "priority": 1,
+    "completed": true
+  },
+  {
+    "todoItemId": 5,
+    "name": "a done items",
+    "priority": 1,
+    "completed": true
+  },
+  {
+    "todoItemId": 6,
+    "name": "a done items",
+    "priority": 1,
+    "completed": true
+  },
+  {
+    "todoItemId": 7,
+    "name": "an item",
+    "priority": 3,
+    "completed": false
+  }
+]
